@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Azedize/Tp3_react.git/static/css/main.5fc758e0.css",
+    "main.js": "/Azedize/Tp3_react.git/static/js/main.6d8cdeff.js",
+    "static/js/787.a5cad257.chunk.js": "/Azedize/Tp3_react.git/static/js/787.a5cad257.chunk.js",
+    "index.html": "/Azedize/Tp3_react.git/index.html",
+    "main.5fc758e0.css.map": "/Azedize/Tp3_react.git/static/css/main.5fc758e0.css.map",
+    "main.6d8cdeff.js.map": "/Azedize/Tp3_react.git/static/js/main.6d8cdeff.js.map",
+    "787.a5cad257.chunk.js.map": "/Azedize/Tp3_react.git/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fc758e0.css",
+    "static/js/main.6d8cdeff.js"
+  ]
+}
